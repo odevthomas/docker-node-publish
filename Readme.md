@@ -1,8 +1,10 @@
-# 🚀 Desafio 2: Publicação Automática de Imagem Docker no Docker Hub
+# Projeto Docker Node
+
+Este projeto faz parte do desafio de publicação automática no Docker Hub usando GitHub Actions.
+
 
 [![Docker Publish](https://github.com/odevthomas/docker-node-publish/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/odevthomas/docker-node-publish/actions/workflows/docker-publish.yml)
 
-Este projeto é um exemplo prático do Desafio 2: CI/CD com GitHub Actions e Docker.
 
 ## 🧩 Objetivo
 
